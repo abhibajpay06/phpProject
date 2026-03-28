@@ -1,0 +1,144 @@
+Array
+(
+    [message] => ad
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adadf
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adadf
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adadf
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adadf
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adadf
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adadf
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adadf
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adadf
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adadf
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adadf
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adadf
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adadf
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adfa
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adfa
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adfa
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adfa
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adfa
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adfa
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adfa
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adfa
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adfa
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adfa
+    [receiver_id] => 3
+    [receiver_type] => user
+)
+Array
+(
+    [message] => adfa
+    [receiver_id] => 3
+    [receiver_type] => user
+)
