@@ -1,0 +1,14 @@
+{
+    "name": "asus/infonix",
+    "authors": [
+        {
+            "name": "abhibajpay06",
+            "email": "awajeetbajpay721@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10",
+        "monolog/monolog": "^2.11",
+        "google/apiclient": "^2.18"
+    }
+}

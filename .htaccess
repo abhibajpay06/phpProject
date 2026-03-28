@@ -1,0 +1,11 @@
+# Enable mod_rewrite
+RewriteEngine On
+
+# --- Step 1: Redirect or rewrite renamed files ---
+# This will make /old-page show content from new-page.php
+RewriteRule ^index$ login.php [L]
+
+# --- Step 2: Remove .php extension globally ---
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+)$ $1.php [NC,L]
