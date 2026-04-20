@@ -96,7 +96,7 @@ while ($u = mysqli_fetch_assoc($res)) {
     <div>
         <strong><?= $u['name'] ?></strong>
 
-        <?php if ($u['typing'] == 1) { ?>
+        <?php if (isset($u['typing']) && $u['typing'] == 1) { ?>
             <div class="typing-text text-muted" style="font-size:12px;">
                 typing...
             </div>
